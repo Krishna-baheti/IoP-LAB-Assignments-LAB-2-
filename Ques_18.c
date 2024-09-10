@@ -1,5 +1,6 @@
 /*
-    Topic : Program to read three numbers and print maximum
+    Topic : Program to read three numbers and print maximum using conditional 
+            operator
     Author : Krishna Baheti (Branch - AI, Roll no. = B-66, Batch -2)
     Description : Taking input from user three numbers and printing
     the max of them using conditional operators
